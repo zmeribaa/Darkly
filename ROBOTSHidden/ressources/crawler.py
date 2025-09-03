@@ -13,7 +13,7 @@ found_flag = ""
 
 # Network settings
 MAX_RETRIES = 5
-RETRY_DELAY = 1  # seconds between retries
+RETRY_DELAY = 0  # seconds between retries
 REQUEST_DELAY = 0.1  # seconds between requests
 
 # Regex to find the flag
